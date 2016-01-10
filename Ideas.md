@@ -1,0 +1,3 @@
+1. I'm interested in the machine learning theory, such as the application made by Microsoft called Adam, or Google Brain. I know it may be hard to accomplish the research in 1 semester, but I still have great passion on it...
+2. I've taken the data mining course this semester, so perhaps keep doing the data mining research in the following semester will be a good choice. I read through your website and found that you are good at social media mining area. If possible, I'd like to follow your step and learn your best research direction!
+3. Otherwise, I might try to do some applications or prototype of real products which could be relevant simple/small, but motivated myself when finishing something real at the end of the semester.
