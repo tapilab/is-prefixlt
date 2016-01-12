@@ -1,5 +1,5 @@
 Here are three (fictitional!) project ideas:
 
-1. **Lotto Predictor**: I will design an algorithm to predict the winning lotto numbers based on the most popular numbers on Twitter. To do so, I will use the Twitter Streaming API to collect a sample of messages for each week, then count the frequency of each number. I will then guess the week's winning lotto numbers by combining the most popular numbers. I will evaluate over 10 weeks and report accuracy and total earnings.
-2. I'm interested in the machine learning theory, such as the application made by Microsoft called Adam, or Google Brain. I know it may be hard to accomplish the research in 1 semester, but I still have great passion on it...
-3. I've taken the data mining course this semester, so perhaps keep doing the data mining research in the following semester will be a good choice. I read through your website and found that you are good at social media mining area. If possible, I'd like to follow your step and learn your best research direction!
+
+1. I'm interested in the machine learning theory, such as the application made by Microsoft called Adam, or Google Brain. I know it may be hard to accomplish the research in 1 semester, but I still have great passion on it...
+2. I've taken the data mining course this semester, so perhaps keep doing the data mining research in the following semester will be a good choice. I read through your website and found that you are good at social media mining area. If possible, I'd like to follow your step and learn your best research direction!
