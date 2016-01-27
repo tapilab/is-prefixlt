@@ -1,0 +1,18 @@
+I've done this week's reading assignment, and the report has been attached. Please check it out.
+If you don't mind, I'd like to summarize some of my thoughts after reading these articles at here.
+1. About deep learning: It's a really interesting topic, and I saw lots of researches on that. 
+  However, there's always a trade-off due to the present technology restriction, which is the immense computer power and the availability of massive training datasets. 
+  Bigger training datasets may increase the accuracy, but cost too much on training time. 
+  So most of the papers, as far as I see, focus on some unique methods/techniques to balance the trade-off.
+2. About the social media, ton of the articles focus on FaceBook, Twitter, Instagram. 
+  It's reasonable, since these three companies did incredible jobs. 
+  Researchers using data mining techniques to find interesting points among the datasets (like the information credibility on Twitter).
+3. To be honest, I did a poor job on Analyze Data/Method which you asked for. 
+  Because most of the articles are too hard for me to understand right now. 
+  I know the further job is learning these things and I will try to learn these "fancy" techniques in my spare time. 
+  So, please forgive me if you don't like my analysis on this part...
+
+p.s. All the papers are found in ACM Digital Library, and I've attached them in case you want to have a look at it~
+
+Alright, that's all my words.
+Thank you for reading it!
