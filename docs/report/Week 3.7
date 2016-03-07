@@ -1,0 +1,10 @@
+Recently, I did a deep research on Bloom filters and I think I understand all the things I will need about Bloom filter in this project. 
+So I tried to combine this filter with my existing Twitter scaper. Well, the next thing is, how to decide what kind of dataset could be considered as relevant sets.
+
+For example, I tried to detect the hype in Gangnam Style. If I have a 10,000 tweets dataset, how to determine which one has a high chance to be considered as a hype event? 
+Step 1: Find positive words. (Support, like, vote, and etc.)
+Step 2: Random pick 100 users with positive words, and track their historic tweets.
+Step 3: Let human label the abnormal actions/ or use the machine learning techniques which provide the training set to the program.
+
+Of course, the second method in step 3 is better. 
+Now, I've done the first 2 steps. It's also easy to trace the users' historic tweets via API. But I really have no idea how to start the step 3.
