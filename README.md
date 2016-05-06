@@ -28,7 +28,8 @@ Please check out the code at here: [Replicate.ipynb](Replicate.ipynb)
 ## Results
 
 I found similar tweets which posted by different users. Plus, these tweets are all original tweets, which means not retweets. [Similar_Tweets.png](Similar_Tweets.png)
-Moreover, there're some accounts indeed have connections and posted the similar tweets. [Related_Accounts.png](Related_Account.png)
+
+Moreover, there're some accounts indeed have connections and posted the similar tweets. [Related_Accounts.png](Related_Accounts.png)
 
 
 ## Conclusions / Future Work
