@@ -45,3 +45,5 @@ In this Github repository, the codes are in Docs, and the number in front of the
 3.3 Jacard_Similarity_Modified.py is the one returns the final result. There's 1 missing file called Relation_Real.txt, it's over the size limit of Github, I'll send you the file via email or Google Drive.
 The last thing, in that 3.3 .py file, the first part of quotes is the part which being used to compute the relation pairs. The result of this part is in Jaccard1.txt. So you don't need to unquote it and run it again.
 
+Check out the final result screen shot at here [Result.png](Result.png).
+
