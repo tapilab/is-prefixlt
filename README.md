@@ -39,3 +39,9 @@ Moreover, there're some accounts indeed have connections and posted the similar 
 The project is not finished yet, so I can not draw any further conclusions.
 But for the future work, I guess the main point is visualization analysis. I mean, I've got enough data. Then I should focus on digging out the relationships and more interesting conclusions via visualization.
 
+## 2nd Semester Results
+First of all, please check out the [Hype_Detection_Yiming_Guo.pdf](Hype_Detection_Yiming_Guo.pdf). This is the report paper in IEEE format and explains everything.
+In this Github repository, the codes are in Docs, and the number in front of the .py files is the order of each piece of code, and the name explains themselves.
+3.3 Jacard_Similarity_Modified.py is the one returns the final result. There's 1 missing file called Relation_Real.txt, it's over the size limit of Github, I'll send you the file via email or Google Drive.
+The last thing, in that 3.3 .py file, the first part of quotes is the part which being used to compute the relation pairs. The result of this part is in Jaccard1.txt. So you don't need to unquote it and run it again.
+
